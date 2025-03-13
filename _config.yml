@@ -1,6 +1,5 @@
-title: EDM Portfolio of David
-logo:
-show_download: true
+title: Lenard's Portfolio
+show_downloads: true
 #theme: jekyll-theme-merlot
 remote_theme: pages-themes/merlot@v0.2.0
 plugins:
